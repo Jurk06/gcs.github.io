@@ -1,0 +1,107 @@
+body
+{
+	background-color: #FFF;
+	margin: 0;
+	padding: 0;
+}
+.navigation
+	{
+		background-color: 	#696969;
+		overflow-y: auto;
+		text-align: center;
+		left: 0;
+		top: 0;
+		width: 100%;
+		position: relative;
+		z-index: 10000;
+	}
+#cover
+{
+	height: 900px;
+	position: relative;
+	background: url("https://scontent.fbom1-2.fna.fbcdn.net/v/t1.0-0/s480x480/13265885_129766797431898_8009919420603732807_n.jpg?oh=be1633b854fc41e4c1f126f496576b56&oe=591FB856") no-repeat top center;
+    background-attachment: fixed;
+}
+#logo
+{
+	color: 	#8B0000;
+	font-family: 'Amatic SC', cursive;
+	font-size: 32px;
+	padding: 0;
+}
+
+ul 
+{
+	padding: 0;
+}
+li 
+{
+	color: 		#F0FFFF;
+	text-transform: uppercase;
+	font-family: 'Amatic SC', cursive;
+	font-size: 40px;
+	font-weight: 600px;
+	margin: 16px 20px;
+	text-align: center;
+	
+}
+.cover-content
+{
+	box-sizing: border-box;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	top: 10px;
+	width: 550px;
+}
+h1 
+{
+	color: 		#0000FF;
+	font-family: 'Raleway' ,sans-serif;
+	font-size: 42px;
+	text-align: center;
+}
+p
+{
+	
+	color: 		#000000;
+	font-family: 'Amatic SC', cursive;
+	font-size: 40px;
+	font-weight: 300px;
+	text-align: center;
+}
+h2, h3
+{
+	color: #000000;
+	font-family: 'Raleway',sans-serif;
+	font-size: 42px;
+	text-align: center;
+	font-weight: 600px;
+}
+a 
+{
+	text-decoration: none;
+}
+.btn
+{
+	background-color: 	#FA8072;
+	color: #000000;
+	font-family: 'Amatic SC', cursive;
+	font-size: 60px;
+	padding: 14px;
+	background-image: -webkit-linear-gradient(#FFD194, #708090);
+	
+}
+.product
+{
+	
+	display: inline-block;
+	margin: 0px 2% 80px 0px;
+	text-align: center;
+	width: 45%;
+}
+.product img
+{
+	width: 50%;
+	background-attachment: fixed;
+}
